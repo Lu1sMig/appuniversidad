@@ -9,10 +9,10 @@ public class Principal {
         System.out.println(lista);
 
         System.out.println(lista.tamanio());
-        lista.adiciona(3,a1);
+        lista.adiciona(2,a1);
         System.out.println(lista.tamanio());
-        lista.adiciona(4,a2);
-        System.out.println(lista.tamanio());
+//        lista.adiciona(4,a2);
+//        System.out.println(lista.tamanio());
 
 //        System.out.println(lista.contener(a1));
 
@@ -35,3 +35,7 @@ public class Principal {
 //        System.out.println(lista);
     }
 }
+//La estructura de datos es la forma de organizar y guardar datos,
+//para qe pueda ser utilizado de manera eficiente y mejor administrando
+//El objetivo de ste script es comprender el funcionamiento de las estructuras de datos en java
+//https://www.aluracursos.com/blog/estructura-datos-con-java

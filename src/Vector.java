@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Vector {
 
-    private Alumno[] alumnos = new Alumno[100];
+    private Alumno[] alumnos = new Alumno[10];
     private int totalDeAlumnos = 0;
 
     public void adiciona(int posicion, Alumno alumno) {
